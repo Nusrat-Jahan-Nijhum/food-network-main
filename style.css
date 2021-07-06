@@ -58,7 +58,7 @@ section{
     padding-left: 23%;
     padding-top: 15%;
 }
-.second-div{
+.fourth-div{
     padding-top: 16%;
     padding-left: 17%;
     font-weight: 900;
@@ -84,4 +84,31 @@ section{
     padding-bottom: 5%;
     background-image: linear-gradient(rgb(94, 94, 196),rgb(231, 133, 231));
     text-decoration: none;
+}
+.fifth-div{
+    text-align: center;
+    padding-left: 18%;
+    text-decoration: slategrey;
+    font-size: 20px;
+}
+.my-reci
+{
+    padding-top: 10%;
+    font-size: 40px;
+}
+h4{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+}
+.breakfast img 
+{   width: 70%;
+    size: 24%;
+    padding-top: 5%;
+}
+.breakfast{
+    padding-left: 5%;
+}
+.lunch
+{
+   
 }
