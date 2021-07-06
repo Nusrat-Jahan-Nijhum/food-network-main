@@ -38,12 +38,20 @@ h6
      border-radius: 25px;
      padding-left: 9%;
      padding-right: 9%;
-     background-image: linear-gradient(gold,salmon);
+     padding-top: 5%;
+     padding-bottom: 5%;
+     background-image: linear-gradient(rgb(233, 130, 34),salmon);
      text-decoration: none;
      margin-left: 20px;
 }
 section{
     display: flex;
     margin-left: 20px;
+}
+.second-portion img{
+    width: 5in;
+    size: 150px;
+    padding-left: 23%;
+    padding-top: 15%;
 }
 
