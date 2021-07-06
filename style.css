@@ -100,6 +100,9 @@ h4{
     font-family: 'Open Sans', sans-serif;
     font-weight: 200;
 }
+.fourth-portion{
+ 
+}
 .breakfast img 
 {   width: 70%;
     size: 24%;
@@ -108,7 +111,15 @@ h4{
 .breakfast{
     padding-left: 5%;
 }
-.lunch
+.lunch img
 {
-   
+    width: 70%;
+    size: 24%;
+    padding-top: 5%;
+}
+.dinner img
+{
+    width: 70%;
+    size: 24%;
+    padding-top: 5%;
 }
