@@ -31,6 +31,16 @@ h6
     
 
 }
+.button-1{
+     color: white;
+     font-size: 20px;
+     padding: 15px;
+     border-radius: 25px;
+     padding-left: 9%;
+     padding-right: 9%;
+     background-image: linear-gradient(gold,orange);
+     margin-left: 20px;
+}
 section{
     display: flex;
 }
