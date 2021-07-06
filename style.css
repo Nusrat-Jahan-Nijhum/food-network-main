@@ -38,10 +38,12 @@ h6
      border-radius: 25px;
      padding-left: 9%;
      padding-right: 9%;
-     background-image: linear-gradient(gold,orange);
+     background-image: linear-gradient(gold,salmon);
+     text-decoration: none;
      margin-left: 20px;
 }
 section{
     display: flex;
+    margin-left: 20px;
 }
 
