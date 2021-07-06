@@ -1,0 +1,36 @@
+body
+{
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Rubik', sans-serif;
+    color: gray
+}
+.word-colored{
+    color: green;
+}
+.first-div{
+    font-size: 35px;
+    padding-left: 5%;
+}
+.first-portion img{
+    width: 90%;
+    size: 100%;
+    padding-left: 20%;
+}
+.first-dialogue
+{
+    padding-top: 15%;
+    padding-left: 5%;
+    font-weight: 900;
+    
+}
+h6
+{   padding-left: 5%;
+    font-weight: 100;
+    font-family: 'Open Sans', sans-serif;
+    
+
+}
+section{
+    display: flex;
+}
+
