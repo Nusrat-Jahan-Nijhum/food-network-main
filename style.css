@@ -103,15 +103,24 @@ h4{
 .fourth-portion{
  /*padding-left: 10%;*/
 }
+.breakfast{
+    margin-left: 5%;
+    box-shadow: 10px 10px 10px gray;
+    padding-left: 5%;
+}
+.lunch{
+    padding-left: 5%;
+    box-shadow: 10px 10px 10px gray;
+}
+.dinner{  
+    box-shadow: 10px 10px 10px gray;
+    padding-left: 5%;
+}
 .breakfast img 
 {   width: 70%;
     padding-top: 5%;
     size: 24%;
     border-radius: 34px;
-}
-.breakfast{
-    margin-left: 5%;
-    box-shadow: 10px 10px 10px gray;
 }
 .lunch img
 {
@@ -119,20 +128,11 @@ h4{
     size: 24%;
     padding-top: 5%;
     border-radius: 34px;
-
-}
-.lunch{
-    padding-left: 2px;
-    box-shadow: 10px 10px 10px gray;
-
 }
 .dinner img
-{   width: 52%;
+{   width: 70%;
     padding-top: 5%;
     border-radius: 34px;
-}
-.dinner{   box-shadow: 10px 10px 10px gray;
-    padding-left: 10%;
 }
 footer{
     padding-top: 17%;
