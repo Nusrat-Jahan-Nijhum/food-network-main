@@ -100,27 +100,30 @@ h4{
     font-family: 'Open Sans', sans-serif;
     font-weight: 200;
 }
-.fourth-portion{
- /*padding-left: 10%;*/
-}
 .breakfast{
     margin-left: 5%;
-    box-shadow: 10px 10px 10px gray;
-    padding-left: 5%;
+    box-shadow: 0 0 20px 10px #c7c8ce;
+    padding-left: 3%;
 }
 .lunch{
-    padding-left: 5%;
-    box-shadow: 10px 10px 10px gray;
+    margin-left: 5%;
+    box-shadow: 0 0 20px 10px #c7c8ce;
+    padding-left: 5%;   
 }
 .dinner{  
-    box-shadow: 10px 10px 10px gray;
-    padding-left: 5%;
+    margin-left: 5%;
+    box-shadow: 0 0 20px 10px #c7c8ce;
+    padding-left: 6%;
+    margin-left: 5%;
+    padding-bottom: 2%;
+    
 }
 .breakfast img 
 {   width: 70%;
     padding-top: 5%;
     size: 24%;
     border-radius: 34px;
+    padding-left: 6%;
 }
 .lunch img
 {
@@ -128,11 +131,13 @@ h4{
     size: 24%;
     padding-top: 5%;
     border-radius: 34px;
+    padding-left: 6%;
 }
 .dinner img
-{   width: 70%;
+{   width: 60%;
     padding-top: 5%;
     border-radius: 34px;
+    padding-left: 6%;
 }
 footer{
     padding-top: 17%;
