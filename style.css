@@ -143,11 +143,19 @@ h3{
     size: 20%;
     border-radius: 34px; 
 }
-footer{
-    padding-top: 17%;
-    padding-bottom: 17%;
+footer p{
+    margin:0%;
+    margin-top: 10%;
     text-align: center;
-    font-size: 40px;
-    /*background-color: rgb(29, 27, 27);
-    background-size: 2in;*/
+    font-size: 30px;
+    width: 100%;
+    background-color:rgb(38, 38, 53);
+    padding-bottom: 10%;
+    padding-top: 10%;
+}
+#foodcolored
+{ color:rgb(235, 137, 26)
+}
+#footertextcolor{
+    color:rgb(123, 134, 148);
 }
