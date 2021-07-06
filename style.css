@@ -42,7 +42,7 @@ h6
      padding-bottom: 5%;
      background-image: linear-gradient(rgb(233, 130, 34),salmon);
      text-decoration: none;
-     margin-left: 20px;
+     margin-left: 15px;
 }
 section{
     display: flex;
@@ -72,15 +72,16 @@ section{
     font-size: 25px;
 }
 .button-2{
+    margin-top: 40%;
     color: white;
     font-size: 20px;
+    font-weight: 200;
     padding: 15px;
-    border-radius: 25px;
-    padding-left: 9%;
-    padding-right: 9%;
+    border-radius: 30px;
+    padding-left: 7%;
+    padding-right: 7%;
     padding-top: 5%;
     padding-bottom: 5%;
-    background-image: linear-gradient(rgb(233, 130, 34),salmon);
+    background-image: linear-gradient(rgb(94, 94, 196),rgb(231, 133, 231));
     text-decoration: none;
-    margin-left: 20px;
 }
