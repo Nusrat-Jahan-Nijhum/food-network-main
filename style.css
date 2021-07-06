@@ -48,6 +48,10 @@ section{
     display: flex;
     margin-left: 20px;
 }
+.second-portion{
+    background-image: url(images/shapes/Frame\ 56.jpg);
+    margin:0% ;
+}
 .second-portion img{
     width: 5in;
     size: 150px;
@@ -59,7 +63,6 @@ section{
     padding-left: 17%;
     font-weight: 900;
 }
-
 #about-me{
     font-size: 50px;
 }
